@@ -3,10 +3,6 @@
 #### 主要技术栈
  - Taro3
  - React
- - JavaScript
- - Taro-ui
- - redux
-
 
 #### 安装依赖
 ```bash
