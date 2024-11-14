@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "./",
-  "projectname": "taro-react-template",
+  "projectname": "ydy-cli-project-taros",
   "appid": "testAppId",
   "setting": {
     "es6": false,
